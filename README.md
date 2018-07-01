@@ -1,4 +1,4 @@
-# Machine Learnig and Its Mathematical Basis
+# Machine Learning and Its Mathematical Basis
 by Torey Hilbert (November 2017)
 
 Goal
